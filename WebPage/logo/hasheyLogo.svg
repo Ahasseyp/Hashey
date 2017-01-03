@@ -306,23 +306,23 @@ bpAfTinfXJ7+zol8Gfdn3ZR0kxJXnnz9s4z7/Jr7PtLVOde1q1PfHKgvKgIY5FE1F8L2SKD5Q3wr
 s7ykvLKuKhd1M+6l/3rj8hXjObGnRq7Pf5nh+kOuq898v4LAtr7ZnMtyDrRZ+MLYhh55axP4/3g8
 HN3IwSI6AAAAAElFTkSuQmCC" transform="matrix(3.8162 0 0 3.8162 0 9.765625e-04)">
 </image>
-<text transform="matrix(1.073 0 0 1 -21.0532 721.8291)" fill="#249C3F" font-family="'Gubia-Regular2'" font-size="954.6223">HASHEY</text>
-<line fill="none" stroke="#249C3F" stroke-width="23" stroke-linecap="round" stroke-miterlimit="10" x1="13.421" y1="50" x2="2810.789" y2="50"/>
-<line fill="none" stroke="#249C3F" stroke-width="23" stroke-linecap="round" stroke-miterlimit="10" x1="14.421" y1="13" x2="2811.789" y2="13"/>
-<line fill="none" stroke="#249C3F" stroke-width="23" stroke-linecap="round" stroke-miterlimit="10" x1="14.421" y1="814.5" x2="2811.789" y2="814.5"/>
-<line fill="none" stroke="#249C3F" stroke-width="23" stroke-linecap="round" stroke-miterlimit="10" x1="15.421" y1="777.5" x2="2812.789" y2="777.5"/>
-<text transform="matrix(0.88 0 0 1.1 587.2334 991.4297)" fill="#249C3F" font-family="'Gubia-Regular2'" font-size="203.4188">FES DE HECHOS DIGITALES</text>
+<text transform="matrix(1.073 0 0 1 -21.0532 721.8291)" fill="#26A950" font-family="'Gubia-Regular2'" font-size="954.6223">HASHEY</text>
+<line fill="none" stroke="#26A950" stroke-width="23" stroke-linecap="round" stroke-miterlimit="10" x1="13.421" y1="50" x2="2810.789" y2="50"/>
+<line fill="none" stroke="#26A950" stroke-width="23" stroke-linecap="round" stroke-miterlimit="10" x1="14.421" y1="13" x2="2811.789" y2="13"/>
+<line fill="none" stroke="#26A950" stroke-width="23" stroke-linecap="round" stroke-miterlimit="10" x1="14.421" y1="814.5" x2="2811.789" y2="814.5"/>
+<line fill="none" stroke="#26A950" stroke-width="23" stroke-linecap="round" stroke-miterlimit="10" x1="15.421" y1="777.5" x2="2812.789" y2="777.5"/>
+<text transform="matrix(0.88 0 0 1.1 587.2334 991.4297)" fill="#26A950" font-family="'Gubia-Regular2'" font-size="203.4188">FES DE HECHOS DIGITALES</text>
 <g>
 	<g>
-		<circle fill="#249C3F" cx="558.474" cy="918.495" r="18.917"/>
+		<circle fill="#26A950" cx="558.474" cy="918.495" r="18.917"/>
 		<g>
-			<polygon fill="#249C3F" points="559,925 176,918.5 559,912 			"/>
+			<polygon fill="#26A950" points="559,925 176,918.5 559,912 			"/>
 		</g>
 	</g>
 	<g>
-		<circle fill="#249C3F" cx="2265.526" cy="918.495" r="18.917"/>
+		<circle fill="#26A950" cx="2265.526" cy="918.495" r="18.917"/>
 		<g>
-			<polygon fill="#249C3F" points="2265,911.99 2648,918.49 2265,924.99 			"/>
+			<polygon fill="#26A950" points="2265,911.99 2648,918.49 2265,924.99 			"/>
 		</g>
 	</g>
 </g>
