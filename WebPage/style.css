@@ -61,6 +61,7 @@
 }
 
 .panel {
+    margin-top: 20px;
     border: 1px solid #26A950;
     transition: box-shadow 0.5s;
 }
@@ -69,7 +70,7 @@
     box-shadow: 5px 0px 40px rgba(0, 0, 0, 0.2);
 }
 
-.panel-footer .btn:hover {
+.panel-footer .btn:hover, #calculadora:hover {
     border: 1px solid #26A950;
     background-color: #fff !important;
     color: #26A950;
@@ -101,6 +102,12 @@
 
 .panel-footer .btn {
     margin: 15px 0;
+    background-color: #26A950;
+    color: #fff;
+}
+
+#calculadora {
+    margin-top: 20px;
     background-color: #26A950;
     color: #fff;
 }
