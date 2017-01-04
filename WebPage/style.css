@@ -61,6 +61,12 @@
     font-size: 50px;
 }
 
+.logo-medium {
+    color: #26A950;
+    font-size: 65px;
+    padding: auto 0;
+}
+
 .panel {
     margin-top: 20px;
     border: 1px solid #26A950;
@@ -117,6 +123,10 @@ footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
     color: #26A950;
+}
+
+.top-buffer {
+    margin-top:20px;
 }
 
 /*@media screen and (max-width: 768px) {
