@@ -63,8 +63,12 @@
 
 .logo-medium {
     color: #26A950;
-    font-size: 65px;
+    font-size: 50px;
     padding: auto 0;
+}
+
+#acerca p {
+    padding-bottom: 20px;
 }
 
 .panel {
