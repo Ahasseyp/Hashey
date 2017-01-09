@@ -13,7 +13,11 @@
     color: #26A950;
 }
 
-.navbar li a, .navbar {
+.navbar {
+    color: #fff !important;
+}
+
+.navbar li a {
     color: #fff !important;
 }
 
@@ -35,7 +39,7 @@
     background-color: #2f2f2f;
     color: #26A950;
     padding: 80px 25px 50px 25px;
-    margin: 0
+    margin: 0;
 }
 
 .jumbotron #logoMain {
@@ -130,7 +134,7 @@ footer .glyphicon {
 }
 
 .top-buffer {
-    margin-top:20px;
+    margin-top: 20px;
 }
 
 .carousel-control.right, .carousel-control.left {
@@ -166,29 +170,3 @@ p {
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
 }
-
-
-/*@media screen and (max-width: 768px) {
-    .col-sm-4 {
-        text-align: center;
-        margin: 25px 0;
-    }
-}
-
-@media (min-width: 600px) {
-    .jumbotron #logoMain {
-        height: 130px;
-    }
-}
-
-@media (min-width: 950px) {
-    .jumbotron #logoMain {
-        height: 160px;
-    }
-}
-
-@media (min-width: 1100px) {
-    .jumbotron #logoMain {
-        height: 200px;
-    }
-}*/
