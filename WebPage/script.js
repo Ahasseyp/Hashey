@@ -23,3 +23,8 @@ $(document).ready(function(){
     } // End if
   });
 })
+
+$('.carousel').carousel({
+  pause: true,
+  interval: false
+});
