@@ -175,10 +175,16 @@ p {
     .jumbotron {
         padding-top: 120px;
     }
+    .jumbotron #logoMain {
+        width: 55%;
+    }
 }
 
 @media (min-width: 992px) {
     .jumbotron {
         padding-top: 80px;
+    }
+    .jumbotron #logoMain {
+        width: 40%;
     }
 }
