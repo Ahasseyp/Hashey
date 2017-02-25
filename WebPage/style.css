@@ -178,6 +178,9 @@ p {
     .jumbotron #logoMain {
         width: 55%;
     }
+    .item h4 {
+        margin: 70px 95px;
+    }
 }
 
 @media (min-width: 992px) {
@@ -186,5 +189,8 @@ p {
     }
     .jumbotron #logoMain {
         width: 40%;
+    }
+    .item h4 {
+        margin: 70px 110px;
     }
 }
